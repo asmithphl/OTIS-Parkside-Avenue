@@ -1,0 +1,68 @@
+STNAME,Street,From,To,Existing Speed Limit,Classification,Residence District?,"Multi-
+lane?",HIN?,DOT?,Previous Rec?,"DVRPC
+Type1","DVRPC
+Type2",Recent Project?,Proposed Phase 1,Notes
+2ND ST,2nd St,Lehigh Ave,Rising Sun Ave,30,Major Collector/Principal Arterial,Partial,Yes,Yes,No,Yes,Narrow Nbhd,Narrow Cnctr,,Future?,"1 lane each direction north of Tioga St. Principal Arterial N of Erie Ave. Residential south of Glenwood Ave
+Neighborhood south of Glenwood Ave, Connector to the north"
+34TH ST,34th St,Mantua Ave,Girard Ave,30,Principal Arterial,No,Yes,No,No,No,Wide Nbhd,--,,Future?,
+59TH ST,59th St,Catherine St,Market St,30,Local,Yes,Yes,Partial,No,No,--,--,,Future?,
+5TH ST,5th St,Girard Ave,Rising Sun Ave,30,Minor Arterial,Yes,Yes,Yes,No,Yes,Narrow Nbhd,Narrow Cnctr,,Future?,"Neighborhood south of Lehigh Ave, Connector to the north"
+66TH AVE,66th Ave,Stenton Ave,5th St,30,Major Collector,Yes,No,Partial,No,Yes,Wide Nbhd,Narrow Nbhd,,Yes,"Wide W of Broad, narrow E of Broad"
+70TH ST,70th St,Cobbs Creek Pkwy,Grovers Ave,30,Minor Arterial,Yes,No,No,No,No,Narrow Nbhd,Wide Nbhd,,Phase 1?,"Currently 30 mph with 35 mph east of Grovers
+Narrow west of Buist Ave, wide to the east"
+ALBURGER AVE,Alburger Ave,Pine Rd,Welsh Rd,30,Major Collector,Yes,No,No,No,Yes,Narrow Nbhd,Wide Nbhd,,Yes,"Narrow west of Veree Rd, wide to the east"
+ALGON AVE,Algon Ave,Oxford Ave,Bustleton Ave,30,Minor Arterial,Yes,No,No,No,Yes,Narrow Nbhd,Narrow Cnctr,,Yes,"Connector b/w Cottman Ave and Rhawn Ave, otherwise Neighborhood"
+BELFIELD AVE,Belfield Ave,Wister St,Wingohocking St,30,Major Collector,Partial,No,No,No,No,Narrow Cnctr,--,,Phase 1?,Residential S of Lindley Ave
+BLOOMFIELD AVE,Bloomfield Ave,Pine Rd,Krewstown Rd,30,Major Collector,Yes,No,No,No,Yes,Wide Nbhd,Narrow Nbhd,,Yes,
+BYBERRY RD,Byberry Rd,Philmont Ave,Roosevelt Blvd,30,Minor Arterial,Partial,No,Partial,No,No,Narrow Cnctr,--,,Phase 1?,HIN from Bustleton Ave-Roosevelt Blvd. Residential W of Worthington Rd
+CARDINGTON RD,Cardington Rd,Delco line,Lansdowne Ave,35,Minor Arterial,No,No,No,No,Yes,Narrow Nbhd,--,,Phase 1?,
+CENTRAL AVE,Central Ave,Cottman Ave,Hasbrook Ave,30,Major Collector,Yes,No,No,No,No,--,--,,Yes,already 25 mph in Cheltenham Twp immediately to the south
+CHAMOUNIX DR,Chamounix Dr,Belmont Mansion Dr,Ford Rd,30,Local,No,No,No,No,?,--,--,,Phase 1?,
+CHELTEN AVE,Chelten Ave,Wissahickon Ave,Wiston St,30,Minor Arterial,Yes,No,No,No,No,Narrow Nbhd,--,,Phase 1?,
+COMLY RD,Comly Rd,Roosevelt Blvd,Academy Rd,30,Minor Arterial,Partial,Yes,Partial,No,No,Wide Cnctr,--,,Future?,HIN from Norcom Rd-Academy Rd. Mostly residential except for park section in the middle
+DICKS AVE,Dicks Ave,65th St,Lindbergh Blvd,30,Local,Yes,No,No,No,No,--,--,,Phase 1?,
+EMLEN ST/CRESHEIM VALLEY DR,Emlen St/Cresheim Valley Dr,Allens Ln,Germantown Ave,30,Major Collector,No,No,No,No,No,Narrow Cnctr,--,,No,
+FAIRMOUNT AVE,Fairmount Ave,Kelly Dr,Broad St,30,Minor Arterial,Yes,No,No,No,?,Narrow Cnctr,--,,Phase 1?,
+FOX ST,Fox St,Queen Ln,Midvale Ave,35,Minor Arterial,Yes,No,Yes,No,Yes,Narrow Cnctr,--,,Phase 1?,very short segment
+GERMANTOWN AVE,Germantown Ave,Rogers Dr,Chestnut Hill Ave,30,Principal Arterial,Partial,No,No,No,No,Narrow Cnctr,--,,Future?,
+HALDEMAN AVE,Haldeman Ave,Bustleton Ave,Roosevelt Blvd,35,Major Collector,Yes,No,No,No,Yes,Narrow Cnctr,--,,Phase 1?,Not considered arterial north of Red Lion Rd in DVRPC typology
+HAVERFORD AVE,Haverford Ave,City Ave,Lancaster Ave,30/45,Minor Arterial,Yes,No,Partial,Yes,?,Narrow Cnctr,Narrow Nbhd,,Future?,"Typology alternates throughout corridor, also small portion of Wide Neighborhood on approaches to 52nd St"
+HILLCREST RD,Hillcrest Rd,Germantown Ave,Stenton Ave,30,Local,No,No,No,No,No,--,--,,Phase 1?,
+HUNTING PARK AVE,Hunting Park Ave,Roosevelt Blvd,Frankford Ave,30,Major Collector/Minor Arterial,Partial,Yes,Partial,No,No,Wide Cnctr,Wide Nbhd,,Future?,"HIN west of I St, Residential b/w 5th-9th
+Wide Cnctr (W of Front), Wide Nbhd (Front-Castor), Narrow Cnctr (E of Castor)"
+IVY HILL RD,Ivy Hill Rd,Stenton Ave,Cheltenham Ave,30,Major Collector,No,No,No,No,No,Narrow Nbhd,--,,No,
+KREWSTOWN RD,Krewstown Rd,Algon Ave,Grant Ave,30,Minor Arterial,Partial,Yes,No,No,Yes,Narrow Nbhd,Wide Nbhd,,No,"Narrow south of Bloomfield Ave, wide to the north"
+LEVICK ST,Levick St,,,25?,Principal Arterial,Yes,Yes,Partial,Yes,Yes,,,,Future?,"25 mph already per RMS and StreetView. Note: one-way, 3-lane, high-volume DOT road
+All DVRPC typlogies present along corridor"
+LUZERNE ST,Luzerne St,American St,I St,30,Major Collector/Local,No,No,Yes,No,No,Narrow Cnctr,--,,Future?,"long blocks, largely industrial. Local E of Front St
+Narrow Connector W of Front St, not part of DVRPC typology to the East"
+MONUMENT RD,Monument Rd,Belmont Ave,City Ave,30,Major Collector,No,No,No,No,No,Wide Nbhd,--,,No,
+MORRELL AVE,Morrell Ave,Academy Rd,Frankford Ave,30,Major Collector,Yes,No,No,No,No,Wide Nbhd,--,,Phase 1?,
+NORWITCH DR,Norwitch Dr,70th St,67th St,35,Local,No,No,Yes,No,Yes,--,--,,Phase 1?,
+OGONTZ AVE,Ogontz Ave,Belfield Ave,Cheltenham Ave,30,Major Collector,Partial,No,Partial,No,No,Wide Cnctr,Narrow Cnctr,,Phase 1?,"Belfield-Olney could be difficult (long blocks), Residential N of Olney Ave
+Wide throughout corridor except b/w Tulpohocken St-Wyncote Ave"
+OREGON AVE,Oregon Ave,Passyunk Ave,Broad St,30,Principal Arterial,No,Yes,Yes,No,No,Wide Nbhd,--,,Future?,
+PACKER AVE,Packer Ave,20th St,Front St,30,Local/Minor Arterial,Partial,Yes,Partial,No,No,--,Wide Nbhd,,Phase 1?,"Local W of Broad (and not multilane). Minor Arterial E of Broad. Consider reduction W of Broad.
+Wide east of Broad (not arterial west of Broad)."
+PAOLI AVE,Paoli Ave,Umbria St,Silverwood St,30,Local,Yes,No,No,No,No,--,--,,Phase 1?,
+PARKSIDE AVE,Parkside Ave,Belmont Ave,Girard Ave,35,Local/Major Collector,Partial,No,Yes,Partial,?,Wide Nbhd,--,,Yes,"City: Belmont Ave-52nd St (Local), DOT: 52nd St-Girard Ave (Major Collector)"
+PINE RD,Pine Rd,Strahle St,Welsh Rd,30/35,Major Collector,Yes,No,No,No,Yes,Narrow Nbhd,Narrow Cnctr,,Phase 1?,"30 mph from Stahle St - Shady Ln
+Neighborhood south of Bloomfield, Connector to the north"
+RAMONA AVE,Ramona Ave,Wyoming St,Adams Ave,30,Minor Arterial,No,No,No,No,Yes,Narrow Nbhd,--,,Yes,
+RHAWN ST,Rhawn St,Oxford Ave,Frankford Ave,35,Minor Arterial,Yes,No,No,Yes,Yes,Narrow Cnctr,Narrow Nbhd,,Future?,"Connector west of Cresco Ave, Neighborhood to the east"
+RISING SUN AVE,Rising Sun Ave,Hunting Park Ave,Roosevelt Blvd,30,Principal Arterial,Partial,No,Partial,No,No,Narrow Cnctr,--,,Future?,possible N of Wingohocking (start of residential)
+S CONCOURSE DR/LANSDOWNE DR,S Concourse Dr/Lansdowne Dr,Ave of the Republic,Girard Ave,30,Local/Major Collector,No,No,Partial,No,Yes,--,Narrow Cnctr,,Yes,"Local W of Belmont Ave
+Not considered arterial north of Belmont Ave in DVRPC typology"
+SPRING LN/BELLS MILL RD,Spring Ln/Bells Mill Rd,Hagys Mill Rd,Germantown Ave,30,Minor Arterial,Partial,No,No,No,No,Narrow Nbhd,--,,Phase 1?,becomes Bells Mill east of Ridge (short stretch of 25). Residential closer to Ridge Ave
+SPRUCE ST/SOUTH ST,Spruce St/South St,Cobbs Creek Pkwy,Convention Ave,30,Minor Arterial/Principal Arterial,Yes,No,Partial,No,No,Narrow Nbhd,Wide Cnctr,,Yes,"Principal Arterial from 33rd to 38th only
+Wide Connector east of 33rd St"
+SUMMERDALE AVE,Summerdale Ave,Roosevelt Blvd,Oxford Ave,30,Minor Arterial,Yes,No,No,No,Yes,Narrow Cnctr,--,,Yes,
+TABOR AVE,Tabor Ave,Adams Ave,Levick St,30,Minor Arterial,Yes,No,Yes,No,Yes,Narrow Cnctr,--,,Yes,
+UMBRIA ST,Umbria St,Autumn River Run,Parker Ave,30,Major Collector,No,No,No,No,No,Narrow Cnctr,--,,No,   
+WASHINGTON AVE,Washington Ave,Grays Ferry Ave,Delaware Ave,30,Principal Arterial,No,Yes,Partial,No,No,Wide Cnctr,Wide Nbhd,,Yes,"Reduce speed limit with road diet
+Connector W of Broad, Neighborhood E of Broad"
+WASHINGTON LN,Washington Ln,Germantown Ave,Chew Ave,25?,Principal Arterial,Yes,No,Yes,Yes,Yes,Narrow Cnctr,--,,Future?,25 mph per RMS/only sign on 2019 StreetView is 30 mph WB at Magnolia St
+WINDRIM AVE,Windrim Ave,Wayne Ave,Broad St,30,Major Collector,No,No,No,No,No,Narrow Cnctr,Narrow Nbhd,,No,"less residential than other streets
+Wide Cnctr (W of Germantown), Narrow Cnctr (Germantown-Bellefield), NarrowNbhd (E of Bellefield)"
+WOODHAVEN LOCAL,Woodhaven Local,Norcom Rd,Milbrook Rd,30,Local,No,Yes,No,No,Yes,--,--,,No,
+WYNNEFIELD AVE,Wynnefield Ave,54th St,Belmont Ave,30,Minor Arterial,Yes,No,Yes,No,Yes,Narrow Cnctr,--,,Yes,
